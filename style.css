@@ -1,0 +1,26 @@
+.title{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+img{
+    width: 250px;
+}
+
+.bio{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 21px;
+}
+
+.fb-link{
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    margin-top: 190px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
